@@ -1,0 +1,7 @@
+C:\Users\Takashima\source\repos\ComputeAverageApp\ComputeAverageApp\bin\Debug\ComputeAverageApp.exe.config
+C:\Users\Takashima\source\repos\ComputeAverageApp\ComputeAverageApp\bin\Debug\ComputeAverageApp.exe
+C:\Users\Takashima\source\repos\ComputeAverageApp\ComputeAverageApp\bin\Debug\ComputeAverageApp.pdb
+C:\Users\Takashima\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.csproj.AssemblyReference.cache
+C:\Users\Takashima\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.csproj.CoreCompileInputs.cache
+C:\Users\Takashima\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.exe
+C:\Users\Takashima\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.pdb
